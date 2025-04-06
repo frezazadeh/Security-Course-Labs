@@ -11,7 +11,7 @@ import subprocess
 import sys
 
 # Configuration
-SERVER_IP = '192.168.64.2'  # Replace with your server's IP address
+SERVER_IP = '192.168.12.1'  # Replace with your server's IP address
 SERVER_PORT = 9999
 
 def main():
